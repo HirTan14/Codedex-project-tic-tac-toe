@@ -3,4 +3,4 @@ A basic GUI tic tac toe project in python. It allows you to play a game of tic t
 It requires a tkinter library to run.
 
 Hope you have fun!
-- Hiranmayi Tangella
+Hiranmayi Tangella
