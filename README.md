@@ -1,2 +1,6 @@
 # Codedex-project-tic-tac-toe
-A basic GUI tic tac toe project in python. It allows you to play a game of tic tac toe and reset
+A basic GUI tic tac toe project in python. It allows you to play a game of tic tac toe and reset. It also allows the user to change the color of the board. 
+It requires a tkinter library to run.
+
+Hope you have fun!
+- Hiranmayi Tangella
